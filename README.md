@@ -1,0 +1,6 @@
+# PHP自适应卡益源码 前台直销源码 报单费 直推奖 有内部商城
+
+郑重提示：<br>example.com，请看好再买。由于源码的可复制性，请看好再买<br>本源码只保证和演示站一样,无演示和演示站失效的,请联系客服.<br>example.com，可以自行安装，如果不会安装的请购买安装服务。请您待服务满意后   再确认付款，良心商家绝无欺骗行为，请各位买家共同监督，共同打造诚信！3. 购买前请看清楚,源码 是否有说明 卖家有无技术搭建.  源码有可复制性，一经售出,example.com。请先测试好在下单，<br>4. 本店商品是“源码”基本所有的“源码”都多多少少会有一些BUG，本“源码”不确定有没有   BUG，但是已经搭建有演示站，example.com .<br>example.com 不得用于其他非法用途，否则后果一切自负 .本店不负任何法律责任。<br>example.com,example.com.谢谢大家.<br>1、这个程序是卡益源码根据客户要求修改后的版本，本来是支持四个会员级别，但是客户只保留了一个会员级别。2、报单费（激活会员需要多少钱）3、直推奖 推荐一个人得多少钱4、层碰奖 每层进来的左右各取个人，计算层碰1:1得多少5、量碰奖 每层除了参与层碰的人以外的人的业绩都算量碰，有设置封顶。6、见点奖 不管下线发展多少人，增加一个人就获得一次见点奖，只发一次7、服务站补贴 当有会员成为服务站（报单中心）的时候，每激活一个会员就会获得这份补贴8、重复消费 没启用，也没测试过这个重复消费是什么意思10、分润工资 这个就相当于每个月发固定工资，这个是按级别来的，在财务里有这个11、有内部商城，可提供完整的购买和发货流程（不支持在线支付和快递发货的部分，就是一个样子，但是有流程）<br>
+
+
+<p style="color: red;">源代码下载地址：<a href="https://mega-file.org/7SQvP" style="color: red;">https://mega-file.org/7SQvP</a></p><p style="color: red;"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram Icon" style="width: 16px; vertical-align: middle; margin-right: 5px;">Telegram:<a href="https://t.me/official_sourcecode" style="color: red;">@official_sourcecode</a></p>
